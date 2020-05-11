@@ -1,0 +1,37 @@
+body {
+    background: #ff243f;
+     background-size: auto 100vh;
+     font-style: Times New Roman;
+     height: 100vh;
+     
+   }
+   .menu {
+     background-color: #4d000b;
+   }
+   
+   a {
+      color: #ffffff;
+      text-decoration: none;
+   }
+   
+   a:hover {
+     text-decoration: underline;
+   }
+   
+   .menu ul {
+     display: flex;
+     justify-content: space-around
+   }
+   
+   .menu li {
+     list-style: 
+   }
+   .site-title {
+     color: black;
+     text-align: center;
+   }
+   .site-subtitle {
+     color: black;
+     font-style: italic;
+     text-align: center;
+   }
